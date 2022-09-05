@@ -12,6 +12,8 @@ import {
   SpecialMenu,
 } from "./container";
 
+import './App.css'
+
 const App = () => {
   return (
     <div>
